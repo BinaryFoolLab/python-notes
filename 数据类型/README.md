@@ -4,3 +4,4 @@
 
 ## 文档目录
 
+- [str_type](./str_type)
